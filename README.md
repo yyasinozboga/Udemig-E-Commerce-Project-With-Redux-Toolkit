@@ -1,9 +1,28 @@
-# React + Vite
+# Udemig E-commerce Project With Redux-Toolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created by Yasin Özboğa.
+This project was created with React.js, JavaScript, Tailwind and Redux-Toolkit techonogies.
+Redux-Toolkit was used for state management and Tailwind was used for style management.
+The products were designed in card form for increase experience of the users.
+The multi-page was designed for strolling the users comfortably on the e-commerce website.
 
-Currently, two official plugins are available:
+## Used Libraries
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Udemig-E-Commerce-Project-With-Redux-Toolkit
+```
+react-router-dom react-icons react-redux @reduxjs/toolkit tailwind
+```
+
+## Features
+
+- **Fully Responsive**
+- **Available Navbar**
+- **Add product to shopping bag**
+- **Delete product from shopping bag**
+
+# Start the project
+
+- `npm run dev`
+
+## Preview
+
+<img src="./simsizvideoClipchampileyapld3-ezgif.com-video-to-gif-converter.gif">
